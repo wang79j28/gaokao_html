@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{11:function(n,o,c){"use strict";c.r(o),function(n){c(6),c(5);var o=c(1),i=c.n(o);c(0),c(4),n(function(){n("#formSubmitBtn").on("click",function(n){i.a.loading("提交中...")}),i.a.form.checkIfBlur("#reg_form")})}.call(this,c(2))}},[[11,0,1]]]);
+//# sourceMappingURL=pay-2b9923.bundle.js.map
