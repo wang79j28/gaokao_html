@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{13:function(n,o,i){"use strict";i.r(o),function(n){i(4),i(3);var o=i(2),c=i.n(o);i(0),i(6),i(5),n(function(){n("#formSubmitBtn").on("click",function(n){var o=c.a.loading("提交中...");setTimeout(function(){o.hide(function(){console.log("`loading` has been hidden")}),window.location.replace("/success.html")},1500)})})}.call(this,i(1))}},[[13,0,2,1]]]);
-//# sourceMappingURL=pay-d706f5.bundle.js.map
