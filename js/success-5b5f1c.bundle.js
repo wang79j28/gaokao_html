@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{11:function(n,o,i){"use strict";i.r(o),function(n){i(4),i(3),i(2),i(5),n(function(){n("#fillout").on("click",function(n){window.location.replace("/fillout1.html")}),n("#online-pay").on("click",function(n){window.location.replace("/pay.html")})})}.call(this,i(1))}},[[11,0,2,1]]]);
+//# sourceMappingURL=success-5b5f1c.bundle.js.map
