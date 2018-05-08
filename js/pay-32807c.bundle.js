@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{13:function(n,o,i){"use strict";i.r(o),function(n){i(4),i(3);var o=i(1),c=i.n(o),t=i(0);i(6),i(5),n(function(){n("#formSubmitBtn").on("click",function(n){var o=c.a.loading("提交中...");setTimeout(function(){o.hide(function(){console.log("`loading` has been hidden")});var n=Object(t.b)("/success.html");window.location.replace(n)},1500)})})}.call(this,i(2))}},[[13,0,2,1]]]);
+//# sourceMappingURL=pay-32807c.bundle.js.map
